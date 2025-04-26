@@ -1,1 +1,1 @@
-
+This project focuses on predicting customer churn in a telecom company using machine learning techniques. Accurately identifying customers who are likely to leave can help businesses take proactive steps to improve retention.
