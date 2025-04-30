@@ -1,1 +1,4 @@
 This project focuses on predicting customer churn in a telecom company using machine learning techniques. Accurately identifying customers who are likely to leave can help businesses take proactive steps to improve retention.
+
+Telecom customer churn refers to the phenomenon where customers discontinue their services with a telecommunications provider and switch to a competitor. This can happen due to various reasons, such as poor network quality, high pricing, lack of customer support, or better offers from rival companies.
+Churn is a critical metric for telecom companies, as retaining existing customers is often more cost-effective than acquiring new ones. Companies use predictive analytics and machine learning to identify potential churners and implement strategies to improve customer satisfaction and loyalty.
