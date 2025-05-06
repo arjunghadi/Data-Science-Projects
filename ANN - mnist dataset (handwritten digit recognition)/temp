@@ -1,2 +1,3 @@
-This project demonstrates the use of deep learning to recognize handwritten digits using the MNIST dataset. By training a Convolutional Neural Network (CNN), the model achieves high accuracy in
+This project demonstrates the use of deep learning to recognize handwritten digits using the MNIST dataset. By training a 
+Convolutional Neural Network (CNN), the model achieves high accuracy in
 classifying digits from 0 to 9.
